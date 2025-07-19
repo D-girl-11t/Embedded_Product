@@ -11,6 +11,7 @@ I have designed a gateway developed to collect and process data from multiple en
 4. Support for one encoded water meter
 5. RS-485 interface for industrial communication or Modbus-compatible devices
 6. USB C for flashing code and Serial Communication
+7. OTA updates
 
 ## Hardware Details
 1. Complete schematic design and component selection
