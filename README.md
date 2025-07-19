@@ -12,6 +12,7 @@ I have designed a gateway developed to collect and process data from multiple en
 5. RS-485 interface for industrial communication or Modbus-compatible devices
 6. USB C for flashing code and Serial Communication
 7. Secure OTA updates
+8. MQTT supported
 
 ## Hardware Details
 1. Complete schematic design and component selection
