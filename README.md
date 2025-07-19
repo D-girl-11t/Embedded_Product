@@ -1,7 +1,8 @@
 # LoRa P2P Gateway with Relay & Metering Support
 I have designed a gateway developed to collect and process data from multiple end-nodes using LoRa P2P communication. The gateway includes hardware support for actuation and metering, and is suitable for IoT deployments such as smart buildings or utilities monitoring.
 
-<img width="1112" height="715" alt="image" src="https://github.com/user-attachments/assets/dfe058d4-e7a3-4b3f-bf17-280b5300defe" />
+<img width="1112" height="715" alt="Screenshot 2025-07-19 145222" src="https://github.com/user-attachments/assets/b69b922a-36ab-46e2-a8b1-41fcf2db15e2" />
+
 
 ## Features
 1. LoRa P2P communication to receive data from multiple distributed end-nodes
