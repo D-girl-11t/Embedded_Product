@@ -24,5 +24,6 @@ I have designed a gateway developed to collect and process data from multiple en
 
 ## Project Scope
 This is developed for deployment by Live Building Systems
+
 Schematic diagrams, PCB files, and other technical details are confidential and proprietary to Live Building Systems.
 
